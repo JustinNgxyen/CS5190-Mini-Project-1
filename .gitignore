@@ -1,0 +1,6 @@
+.git-backup/
+DeepFakeDetection/
+__pycache__/
+*.pyc
+.venv/
+venv/
